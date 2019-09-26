@@ -169,3 +169,10 @@ let pickMystery = function() {
 
 let murderer = pickMystery();
 console.log(murderer)
+
+let revealMystery = function(mysteryEnvelope) {
+  console.log()
+}
+
+console.log(revealMystery())
+
